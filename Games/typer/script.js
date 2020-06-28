@@ -9,28 +9,9 @@ const settingsForm = document.getElementById('settings-form');
 const difficultySelect = document.getElementById('difficulty');
 
 // List of words for game
-const words = [
-  'sigh',
-  'tense',
-  'airplane',
-  'ball',
-  'pies',
-  'juice',
-  'warlike',
-  'bad',
-  'north',
-  'dependent',
-  'steer',
-  'silver',
-  'highfalutin',
-  'superficial',
-  'quince',
-  'eight',
-  'feeble',
-  'admit',
-  'drag',
-  'loving'
-];
+const words = 
+    ['application', 'programming', 'interface', 'nodejs', 'javascript', 'reactjs', 'expressjs', 'mongodb', 'amazon', 'google', 'graphql', 'mysql', 'postgresql', 'denojs', 'datastructures', 'algorithms', 'networks', 'cloud', 'software', 'apollo', 'vanillajs', 'node', 'typescript', 'hire_yash_raj', 'npm', 'azure', 'aws', 'heroku'];
+
 
 // Init word
 let randomWord;

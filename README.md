@@ -13,6 +13,8 @@ Mini Projects using vanilla.js framework
 
 ### 2. Gamespot: Game zone for techies
 
+## Demo
+
  Gamespot is a Game zone which hosts games like Flash fingers, Super breakout and Hangman built for techies where they can indulge themselves in brain storming activities.
 
 ![sample_gif](https://raw.githubusercontent.com/yashraj2312/lwr/master/gamespot.gif)

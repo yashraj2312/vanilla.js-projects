@@ -20,7 +20,7 @@ Mini Projects using vanilla.js framework
 ![sample_gif](https://raw.githubusercontent.com/yashraj2312/lwr/master/gamespot.gif)
 
 
-## Some hosted Links 
+## Click to witness in your Browser
 
 https://bit.ly/gamespotio
 

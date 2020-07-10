@@ -5,6 +5,8 @@ Mini Projects using vanilla.js framework
 ###  1. Lyricle: Google for Lyrics
 
  Lyricle is a web app which empowers poeple who loves to listen music by displaying them the lyrics of songs. User can search for lyrics by searching for artists, albums, songs, etc. It fetches the request through an API.  
+ 
+## Demo 
 
 ![sample_gif](https://raw.githubusercontent.com/yashraj2312/lwr/master/lyricle.gif)
 

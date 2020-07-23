@@ -1,6 +1,6 @@
 # Mini projects
 
-Mini Projects using vanilla.js framework
+Mini Projects using vanilla Javascript
 
 ###  1. Lyricle: Google for Lyrics
 
